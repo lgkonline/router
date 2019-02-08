@@ -1,6 +1,6 @@
 {
   "name": "router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,20 +13,20 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.4",
-    "babel-preset-env": "^1.6.1",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "css-loader": "^0.28.11",
+    "css-loader": "^2.1.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
-    "node-sass": "^4.9.0",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "sass-loader": "^7.0.1",
-    "style-loader": "^0.21.0",
-    "webpack": "^4.6.0"
+    "node-sass": "^4.11.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.3"
   },
   "devDependencies": {
-    "prop-types": "^15.6.1",
-    "webpack-cli": "^2.1.2"
+    "prop-types": "^15.6.2",
+    "webpack-cli": "^3.2.3"
   }
 }
